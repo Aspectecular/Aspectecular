@@ -37,6 +37,6 @@
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/947858847312257054)](https://discord.com/users/947858847312257054)
+[![Discord Presence](https://lanyard.cnrad.dev/api/947858847312257054)](https://discord.com/users/995460159302283265)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kpujoy&cover_image=true&theme=default)](https://spotify.com)
 
